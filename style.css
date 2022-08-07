@@ -83,7 +83,7 @@ html{
     top: 0;
     background-color: rgb(74, 175, 175);
     transition: 0.5s;
-    z-index: -1;
+    z-index: 1;
 }
 @media (max-width: 778px){
     #nav-section{
